@@ -1,0 +1,1 @@
+populateItems("cardview-parent","Programming Projects","Programming projects written in Java, Processing, Python, JavaScript, HTML and CSS", "programming/projects.html","programming/Images/programming.jpg","EXPLORE!");
