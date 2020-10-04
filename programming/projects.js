@@ -4,6 +4,6 @@ populateItems("cardview-parent","My Website","<p>Html, CSS, JavaScript</p><p>Thi
 
 populateItems("cardview-parent","Pop Game","<p>Processing</p><p>Simple game where you click balls of random sizes that move at random speed and angles", "https://github.com/ChinZheYing/Pop-Game","Images/popgame.jpg","Source Code");
 
-populateItems("cardview-parent","Rename Tool","<p>Java</p><p>This is a tool that allows you to rename a huge number of files all at once</p><p>For example renaming photo from cameras which has weird names</p>", "https://github.com/ChinZheYing/Rename-Tool","Images/renametool.jpg","Source Code");
+populateItems("cardview-parent","Bulk File Rename","<p>Java</p><p>This is a tool that allows you to rename a huge number of files all at once</p><p>For example renaming photo from cameras which has weird names</p>", "https://github.com/ChinZheYing/Rename-Tool","Images/renametool.jpg","Source Code");
 
 populateItems("cardview-parent","Spaceapp","<p>Html, CSS, JavaScript</p><p>Planet at our fingertip. Just redirect to Nasa Earthdata :)</p>", "https://github.com/ChinZheYing/spaceapps","Images/spaceapp.jpg","Source Code");
