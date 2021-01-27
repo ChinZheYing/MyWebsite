@@ -13,3 +13,5 @@ populateItems("cardview-parent","My Website","<p>Html, CSS, JavaScript</p><p>Thi
 populateItems("cardview-parent","Pop Game","<p>Processing</p><p>Simple game where you click balls of random sizes that move at random speed and angles<p>Reference: A YouTube video I watched too long ago to remember</p.", "https://github.com/ChinZheYing/Pop-Game","Images/popgame.jpg","Source Code");
 
 populateItems("cardview-parent","Spaceapp","<p>Html, CSS, JavaScript</p><p>Planet at our fingertip. Just redirect to Nasa Earthdata :)</p><p>Reference: https://www.w3schools.com/howto/howto_make_a_website.asp</p>", "https://github.com/ChinZheYing/spaceapps","Images/spaceapp.jpg","Source Code");
+
+populateItems("cardview-parent","Mechanical keyboard sound","<p>Python</p><p>Cherry mechanical keyboard sound effect for laptop</p><p>Reference: none</p>", "https://github.com/ChinZheYing/keyboardsound","Images/cherrybrown.jpg","Source Code");
